@@ -1,0 +1,4 @@
+1. Valid Credentials: Test the system by logging in with valid username and password
+2. Invalid Credentials: Test the system by logging in with invalid username or password
+3. Empty Fields: Test the system by logging in with empty username or password fields
+4. Password Recovery: Test the system by recovering a forgotten password
